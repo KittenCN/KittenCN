@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=KittenCN&theme=dark)<br>
-<img src="https://raw.githubusercontent.com/KittenCN/KittenCN/main/img/coderfan_logo.png" width="450" height="450">
+![](https://github-readme-stats.vercel.app/api?username=KittenCN&theme=dark)
+<img src="https://raw.githubusercontent.com/KittenCN/KittenCN/main/img/coderfan_logo.png" width="195" height="195">
