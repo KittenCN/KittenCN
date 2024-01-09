@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=KittenCN&theme=dark)
-<img src="https://raw.githubusercontent.com/KittenCN/KittenCN/main/img/coderfan_logo.png" width="195" height="195">
+[<img src="https://raw.githubusercontent.com/KittenCN/KittenCN/main/img/coderfan_logo.png" width="195" height="195">](https://www.coderfan.com)
+
