@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=KittenCN&theme=dark)
 [<img src="https://raw.githubusercontent.com/KittenCN/KittenCN/main/img/coderfan_logo.png" width="195" height="195">](https://www.coderfan.com)
 
+[CoderFAN编程学习平台](https://www.coderfan.com)
+
+[CoderFAN知识库](https://wiki.coderfan.com)
+
+[CoderFAN知识库(Github Page)](https://kittencn.github.io/ks/)
+
