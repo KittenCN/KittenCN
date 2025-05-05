@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [<img src="https://raw.githubusercontent.com/KittenCN/KittenCN/main/img/coderfan_logo.png" width="195" height="195">](https://www.coderfan.com)
 
 [CoderFAN编程学习平台](https://www.coderfan.com)  
-[CoderFAN知识库静态站](https://wiki.coderfan.com)  
-[CoderFAN知识库docsify站](https://demo.coderfan.com)  
-[CoderFAN知识库docsify站(Github Page)](https://kittencn.github.io/ks/)  
+[静态主站](https://wiki.coderfan.com)  
+[GitHub镜像站](https://kittencn.github.io/ks/_book/)  
 
